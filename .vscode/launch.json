@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RepasoApplication<repaso>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.repaso.vehiculo.RepasoApplication",
+            "projectName": "repaso",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
